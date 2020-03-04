@@ -64,3 +64,9 @@ otherdocs/
 content/config/deployment/ecosystem.json
 pm2.json
 security_certificates
+
+# jetbrains
+.idea
+
+# npm
+package-lock.json
